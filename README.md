@@ -26,11 +26,11 @@
 1. Get the Data
 2. Data Exploration
 3. Data Preprocessing:
-        - Shuffle
-        - Resize
-        - Rescale
-        - RandomFlip
-        - RandomRotation
+    - Shuffle
+    - Resize
+    - Rescale
+    - RandomFlip
+    - RandomRotation
 4. Model Training (MobileNet)
 5. Results (Accuracy = 99%)
 5. Testing
