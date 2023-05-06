@@ -6,6 +6,7 @@
 
 ## Data
 ### Data Source
+[link](https://www.kaggle.com/datasets/prasanshasatpathy/soil-types)
 ### Data
 - **Input:** Image
 - **Output:** Class 
