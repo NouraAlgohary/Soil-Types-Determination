@@ -3,6 +3,7 @@
 ![Soil Types](https://user-images.githubusercontent.com/103903785/235557829-7580e7fd-95c1-4cc9-a203-b2b65c9991ac.png)
 
 ## Requirments
+[Requirments](https://github.com/iurwpoietknckvjndfsm-gndvkd/Soil-Types/blob/main/Requirments.txt)
 
 ## Data
 ### Data Source
