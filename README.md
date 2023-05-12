@@ -24,7 +24,7 @@
 - Data Augmentation
 - Merge data from different srouces
 
-## Code
+## ML Code
 1. Get the Data
 2. Data Exploration
 3. Data Preprocessing:
